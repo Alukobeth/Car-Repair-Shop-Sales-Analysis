@@ -36,6 +36,7 @@ Each customer in this sample has visited once, indicating either a lack of repea
 
 ### Visualization
 These visuals illustrate key findings from my analysis.
+
 ![](4.jpg)
 
 ## Vehicle Analysis
@@ -56,6 +57,7 @@ The distribution indicates fairly even spread of vehicle ages ranging from 2012 
 
 ### Visualization
 This illustrates key findings in the vehicle analysis.
+
 ![](8.jpg)
 
 ## Job Performance Analysis
@@ -82,6 +84,7 @@ The average cost of each job type gives insight into the most and least expensiv
 
 ### Visualization
 The visuals indicate key findings in the job performance analysis
+
 ![](12.jpg)
 
 ## Parts Usage Analysis
@@ -102,6 +105,7 @@ This quantifies the total revenue generated from the sale of parts, reflecting t
 The total revenue generated from part sales amounts to 1584.87, indicating the contribution of parts sales to overall revenue.
 
 ### Visualization
+
 ![](16.jpg)
 
 ## 5.Financial Analysis
@@ -120,6 +124,7 @@ The sales tax constitutes approximately 8.65% of the total revenue. This analysi
 
 ### Visualization
 This shows insights derived from my analysis
+
 ![](20.jpg)
 
 ## Optimization Recommendations
@@ -132,13 +137,13 @@ This shows insights derived from my analysis
 - Monitor Other Parts: Maintain moderate levels of Shop Materials, CV Axel, and Coolant.
 - Reduce Costs: Explore bulk purchasing and supplier negotiations to lower costs.
 - Regularly Review Inventory: Implement regular reviews to prevent stockouts and optimize reorder points.
-### c)Suggested Loyalty Program Benefits
+### c) Suggested Loyalty Program Benefits
 -Exclusive Discounts: Offer personalized discounts on services and parts.
 -Points System: Implement a points-based system where customers earn points for each visit and spend, redeemable for future services.
 -Priority Service: Provide priority booking and faster service times for loyalty members.
 -Special Offers: Send targeted promotions and special offers based on past spending behavior.
 By focusing on top customers, the business can enhance customer retention and increase overall revenue.
-### d)Staff Scheduling:
+### d) Staff Scheduling:
 - Flexible Scheduling: Allow for quick adjustments based on demand to reallocate staff as needed.
 - Cross-Training: Train employees in multiple job types for efficient service management and flexibility.
 - Continuous Monitoring: Regularly track job data to adjust staffing and shift allocations in line with demand trends.
