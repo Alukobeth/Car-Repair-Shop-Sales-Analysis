@@ -5,7 +5,12 @@
 
 ## Database Setup
 
+The screenshot below contains the result of the relational database containing the imported data from the CSV files.
+![](01.jpg)
+![](02.jpg)
+![](03.jpg)
 
+# Analysis Report
 
 ## Introduction
 
