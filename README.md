@@ -172,10 +172,10 @@ This shows insights derived from my analysis
 - Regularly Review Inventory: Implement regular reviews to prevent stockouts and optimize reorder points.
   
 ### c) Suggested Loyalty Program Benefits
--Exclusive Discounts: Offer personalized discounts on services and parts.
--Points System: Implement a points-based system where customers earn points for each visit and spend, redeemable for future services.
--Priority Service: Provide priority booking and faster service times for loyalty members.
--Special Offers: Send targeted promotions and special offers based on past spending behavior.
+- Exclusive Discounts: Offer personalized discounts on services and parts.
+- Points System: Implement a points-based system where customers earn points for each visit and spend, redeemable for future services.
+- Priority Service: Provide priority booking and faster service times for loyalty members.
+- Special Offers: Send targeted promotions and special offers based on past spending behavior.
 By focusing on top customers, the business can enhance customer retention and increase overall revenue.
 
 ### d) Staff Scheduling:
