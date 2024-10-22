@@ -94,9 +94,9 @@ The average cost of each job type gives insight into the most and least expensiv
   - Transmission check: $300.00
   - Replace spark plugs: $260.00
 - Lowest Average Cost Jobs:
- - Replace air filter: $25.00
- - Tire rotation: $50.00
- - Diagnose front wheel vibration: $62.50
+  - Replace air filter: $25.00
+  - Tire rotation: $50.00
+  - Diagnose front wheel vibration: $62.50
   
 ![](11.jpg)
 
