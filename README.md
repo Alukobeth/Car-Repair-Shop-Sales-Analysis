@@ -122,12 +122,12 @@ The sales tax constitutes approximately 8.65% of the total revenue. This analysi
 This shows insights derived from my analysis
 ![](20.jpg)
 
-## 6.Optimization Recommendations
-### a)Boosting of underperforming services
+## Optimization Recommendations
+### a) Boosting of underperforming services
 - Enhance Marketing for Low-Frequency Jobs: Since all jobs were performed only once, increasing marketing efforts for services like "Tire Rotation" and "Oil Change" to drive more frequency should be considered.
 - Review Pricing for High-Cost Services: The "Replace Front CV Axel" service has the highest average cost. Ensuring the pricing aligns with market standards and customer expectations to avoid pricing out potential clients.
 - Focus on High-Revenue Services: Services such as "Replace Front CV Axel" and "Transmission Check" generate significant revenue. Promoting these high-value services through targeted campaigns can maximize profitability.
-### b)Stocking Parts
+### b) Stocking Parts
 - Stock High-Demand Parts: Increase inventory of Spark Plugs and Wheel Weights.
 - Monitor Other Parts: Maintain moderate levels of Shop Materials, CV Axel, and Coolant.
 - Reduce Costs: Explore bulk purchasing and supplier negotiations to lower costs.
