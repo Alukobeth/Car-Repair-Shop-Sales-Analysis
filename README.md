@@ -26,6 +26,7 @@ These customers represent the highest spenders and are crucial to the business's
 ### - Average Customer Spending
 The average spending of customers on repairs and parts is calculated as follows
 ![](2.jpg)
+
 Average Spending = $859.33
 This average provides a benchmark to assess individual customer spending against the overall customer base.
 
